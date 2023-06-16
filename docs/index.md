@@ -1,11 +1,11 @@
 <style>
 body {
-background: sliver;
+background: aliceBlue;
 width: 800px;
 margin: auto;
 }
 h1 {
-color: snow;
+color: DeepSkyBlue;
 text-align: center;
 }
 p {
