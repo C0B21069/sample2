@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 body {
 background: aliceBlue;
 width: 800px;
@@ -14,7 +14,7 @@ border: 1px solid gray;
 padding: 10px;
 }
 </style>
-
+ -->
 ##Image
 ![Nissy](https://nissy-enter.com/ogp_202303.jpg)
 
