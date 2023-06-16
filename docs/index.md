@@ -1,15 +1,15 @@
 <style>
 body {
-background: lightcyan;
+background: sliver;
 width: 800px;
 margin: auto;
 }
 h1 {
-color: maroon;
+color: snow;
 text-align: center;
 }
 p {
-color: gray;
+color: Black;
 border: 1px solid gray;
 padding: 10px;
 }
